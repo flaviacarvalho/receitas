@@ -1,0 +1,34 @@
+
+.titulo-receita {
+  margin: 0;
+	margin-bottom: 20px;
+  text-align: center;
+}
+
+.titulo-receita img {
+  display: inline-block;
+  max-width: 150px;
+}
+
+footer {
+	background-color: #f3f3f3;
+	padding: 1em;
+	text-align: right;
+  margin-top: 70px;
+}
+header {
+  background-color: #222;
+  text-align: center;
+
+}
+header img{
+ 	width: 13%;
+  height: 6%;
+  margin-top: 20px;
+}
+
+.navbar-inverse {
+  border: none;
+  border-radius: 0;
+}
+ 

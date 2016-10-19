@@ -1,0 +1,6 @@
+desbloquear imagem
+image - canvas size
+300 x 300 px
+ctrl+t
+ctrl+0
+save for web & devices
